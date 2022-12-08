@@ -13,8 +13,8 @@
 
 1. 将本仓库下载到本地解压
 2. 推荐使用idea打开
-2. 确保已安装MySql数据库
-3. 修改```src/main/resources/application.yml```中的属性
-3. 运行此目录下的```book.sql```文件
-4. 运行```src/main/java/com/lhxone/Spring001SsmpApplication.java```
-5. 打开[http://localhost/pages/books.html](http://localhost/pages/books.html)
+3. 确保已安装MySql数据库
+4. 修改```src/main/resources/application.yml```中的属性
+5. 运行此目录下的```book.sql```文件
+6. 运行```src/main/java/com/lhxone/Spring001SsmpApplication.java```
+7. 打开[http://localhost/pages/books.html](http://localhost/pages/books.html)
