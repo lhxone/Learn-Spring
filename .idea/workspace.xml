@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81d9029a-ed83-461e-8a00-4433009ce702" name="Changes" comment="初始化仓库">
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/book.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/Spring001SsmpApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/java/com/lhxone/service/impl/IBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/test/java/com/lhxone/Spring001SsmpApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-001-ssmp/src/test/java/com/lhxone/dao/BookDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Haoxin Liu &lt;lhxone@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-001-ssmp" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IbsN48Sny2Z6M77GFzUIjaM9m9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/m1klos/IdeaProjects/Learn-Spring/spring-001-ssmp/src/main/resources/static",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/Test/src/main/java/com/lhxone" />
+      <recent name="$PROJECT_DIR$/Test/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring-001-ssmp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lhxone.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Spring001SsmpApplication">
+    <configuration name="BookDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-001-ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoTest.TestDao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
+      <option name="METHOD_NAME" value="TestDao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoTest.TestGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-001-ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
+      <option name="METHOD_NAME" value="TestGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring001SsmpApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-001-ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring001SsmpApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.TestApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring001SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-001-ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhxone.Spring001SsmpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhxone.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookDaoTest.TestGetAll" />
+        <item itemvalue="JUnit.BookDaoTest.TestDao" />
+        <item itemvalue="JUnit.TestApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Spring001SsmpApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.BookDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81d9029a-ed83-461e-8a00-4433009ce702" name="Changes" comment="" />
+      <created>1670461574522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670461574522</updated>
+      <workItem from="1670461576486" duration="6112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化仓库" />
+  </component>
+</project>
