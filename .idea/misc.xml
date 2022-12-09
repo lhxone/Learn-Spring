@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-001-ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-002-mongodb/pom.xml" />
       </list>
     </option>
   </component>

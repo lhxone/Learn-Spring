@@ -8,10 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-001-ssmp" />
+        <module name="spring-002-mongodb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-001-ssmp" target="1.8" />
+      <module name="spring-002-mongodb" target="1.8" />
       <module name="Test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -19,6 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Test" options="-parameters" />
       <module name="spring-001-ssmp" options="-parameters" />
+      <module name="spring-002-mongodb" options="-parameters" />
     </option>
   </component>
 </project>

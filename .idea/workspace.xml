@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d9029a-ed83-461e-8a00-4433009ce702" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_2_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-001-ssmp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-001-ssmp/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,85 +51,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/m1klos/IdeaProjects/Learn-Spring/spring-001-ssmp/src/main/resources/static",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m1klos/IdeaProjects/Learn-Spring/spring-002-mongodb/src/main/resources/static&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;24db28330807be222ae335f3631fab1e&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-002-mongodb/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/spring-001-ssmp/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/Test/src/main/java/com/lhxone" />
       <recent name="$PROJECT_DIR$/Test/src/main/resources" />
       <recent name="$PROJECT_DIR$/spring-001-ssmp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lhxone.domain" />
       <recent name="com.lhxone.config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Spring001SsmpApplication">
-    <configuration name="BookDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-001-ssmp" />
+  <component name="RunManager" selected="JUnit.Spring002MongodbApplicationTests.MySql2MongoDB">
+    <configuration name="Spring002MongodbApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-002-mongodb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lhxone.dao.*" />
+          <option name="PATTERN" value="com.lhxone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
+      <option name="PACKAGE_NAME" value="com.lhxone" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring002MongodbApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookDaoTest.TestDao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhxone.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
-      <option name="METHOD_NAME" value="TestDao" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookDaoTest.TestGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-001-ssmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhxone.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lhxone.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.lhxone.dao.BookDaoTest" />
-      <option name="METHOD_NAME" value="TestGetAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Spring001SsmpApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-001-ssmp" />
+    <configuration name="Spring002MongodbApplicationTests.GetBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-002-mongodb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lhxone.*" />
@@ -128,15 +110,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lhxone" />
-      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring001SsmpApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring002MongodbApplicationTests" />
+      <option name="METHOD_NAME" value="GetBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
+    <configuration name="Spring002MongodbApplicationTests.MySql2MongoDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-002-mongodb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lhxone.*" />
@@ -144,7 +126,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lhxone" />
-      <option name="MAIN_CLASS_NAME" value="com.lhxone.TestApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring002MongodbApplicationTests" />
+      <option name="METHOD_NAME" value="MySql2MongoDB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring002MongodbApplicationTests.SaveBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-002-mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring002MongodbApplicationTests" />
+      <option name="METHOD_NAME" value="SaveBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring002MongodbApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-002-mongodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhxone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lhxone" />
+      <option name="MAIN_CLASS_NAME" value="com.lhxone.Spring002MongodbApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -158,20 +172,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="Test" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhxone.TestApplication" />
+    <configuration name="Spring002MongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-002-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhxone.Spring002MongodbApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BookDaoTest.TestGetAll" />
-        <item itemvalue="JUnit.BookDaoTest.TestDao" />
-        <item itemvalue="JUnit.TestApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Spring001SsmpApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.BookDaoTest" />
+        <item itemvalue="JUnit.Spring002MongodbApplicationTests.MySql2MongoDB" />
+        <item itemvalue="JUnit.Spring002MongodbApplicationTests.GetBook" />
+        <item itemvalue="JUnit.Spring002MongodbApplicationTests.SaveBook" />
+        <item itemvalue="JUnit.Spring002MongodbApplicationTests" />
+        <item itemvalue="JUnit.Spring002MongodbApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +197,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670461574522</updated>
-      <workItem from="1670461576486" duration="7198000" />
+      <workItem from="1670461576486" duration="17409000" />
+      <workItem from="1670496903340" duration="870000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库">
       <created>1670468277503</created>
@@ -199,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670468378774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新README文件">
+      <created>1670469082224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670469082224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新README文件">
+      <created>1670469272218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670469272218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +250,7 @@
       <path value="$PROJECT_DIR$/spring-001-ssmp" />
     </ignored-roots>
     <MESSAGE value="初始化仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化仓库" />
+    <MESSAGE value="更新README文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新README文件" />
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Learn-Spring.iml" filepath="$PROJECT_DIR$/.idea/Learn-Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-001-ssmp/spring-001-ssmp.iml" filepath="$PROJECT_DIR$/spring-001-ssmp/spring-001-ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-002-mongodb/spring-002-mongodb.iml" filepath="$PROJECT_DIR$/spring-002-mongodb/spring-002-mongodb.iml" />
     </modules>
   </component>
 </project>
