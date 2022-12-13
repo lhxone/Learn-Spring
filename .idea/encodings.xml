@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/spring-001-ssmp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-001-ssmp/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-002-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-003-redis-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-004-sms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-005-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-005-nacos/src/main/resources" charset="UTF-8" />
   </component>
 </project>
