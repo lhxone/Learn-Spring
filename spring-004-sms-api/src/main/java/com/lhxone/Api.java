@@ -55,7 +55,7 @@ public class Api {
         WebResource webResource = client.resource(
                 "http://sms-api.luosimao.com/v1/send.json");
         MultivaluedMapImpl formData = new MultivaluedMapImpl();
-        formData.add("mobile", "18905432841");
+        formData.add("mobile", "18866669999");
         formData.add("message", "验证码：286221，【Lhxone】");
         ClientResponse response =  webResource.type( MediaType.APPLICATION_FORM_URLENCODED ).
                 post(ClientResponse.class, formData);
